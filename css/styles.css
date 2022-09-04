@@ -2,7 +2,6 @@ html, body{
     font-family: 'Merriweather', serif;
     height: 100%;
     margin: 30px 100px;
-    overflow: auto;
 }
 
 h1{
